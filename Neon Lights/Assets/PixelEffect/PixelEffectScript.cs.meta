@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4ab170c502858b6409884c3876170a13
+timeCreated: 1539551761
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PixMat: {fileID: 2100000, guid: 0636b93b6dea89c43b59c35422b04baf, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
